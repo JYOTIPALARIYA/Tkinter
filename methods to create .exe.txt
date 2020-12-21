@@ -1,0 +1,10 @@
+So first we need to open commandprompt and type:
+pip install pyinstaller
+then:
+1)DirectMethod
+2)Complex Method
+
+1)->open cmd write ->pyinstaller filename.py
+But this method will create lots of files including lib and all ..but u need just one exe so use sec one only.
+
+2)
